@@ -1,0 +1,1 @@
+docker exec pgadmin4 ip a | Select-String hvint
